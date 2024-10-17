@@ -41,7 +41,7 @@ For Tor:
     tcp://example.onion:PORT
 
 
-#   ! THIS IS NOT A SECURE MESSENGER, IT DOES NOT HAVE BUILT-IN ENCRYPTION. USE WITH CAREFULNESS !
+#   ! THIS IS NOT A SECURE COMMUNICATOR, IT DOES NOT HAVE BUILT-IN ENCRYPTION. USE WITH CAREFULNESS !
 
 #   ! If you intend to use Tor, the recommended buffer size is a minimum of 5 MB !
 
