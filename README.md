@@ -16,11 +16,11 @@ IvoryClient is a simple, lightweight GUI-based TCP client built using Python and
 
 ## Installation
 
-Clone the repository:
+Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/jrdpteam/ivoryclient
-cd IvoryClient
+cd ivoryclient
 bash install_dependencies.sh
 ```
 
