@@ -1,10 +1,10 @@
 # IvoryClient
 
-IvoryClient is a simple, lightweight GUI-based TCP client built using Python and PyQt5. It allows you to connect to a TCP server using a URL (including .onion domains for Tor), supports SOCKS5 proxy, and provides basic message exchange capabilities.
+IvoryClient is a simple, lightweight GUI-based TCP client built using Python and PyQt5. It allows you to connect to a TCP server using a URL (including .onion domains for Tor), supports Tor, and provides message exchange capabilities.
 
 ## Features
 - **TCP Communication**: Connect to TCP servers using both standard IP addresses and .onion domains via Tor.
-- **SOCKS5 Proxy Support**: Use a SOCKS5 proxy to route your connections.
+- **Tor Support**: Use Onion network to route your connections.
 - **Customizable Buffer Size**: Adjust the buffer size for receiving data.
 - **ANSI Color Support**: Display responses with ANSI colors interpreted in the text output. (beta :( )
 - **Interactive GUI**: Easy-to-use graphical interface built with PyQt5.
