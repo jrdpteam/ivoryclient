@@ -43,11 +43,6 @@ For Tor:
 
 #   ! THIS IS NOT A SECURE COMMUNICATOR, IT DOES NOT HAVE BUILT-IN ENCRYPTION. USE WITH CAREFULNESS !
 
-#   ! If you intend to use Tor, the recommended buffer size is a minimum of 5 MB !
-
-
-
-
 
 by JRDP Team 2024
 
